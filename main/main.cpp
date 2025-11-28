@@ -243,5 +243,8 @@ int main() {
     Timer::showAll();
     cout << "\n\n--- Rule of Three testavimas ---\n";
     testRuleOfThree();
+    std::cout << "\nSpausk Enter, kad uzdaryti programa...";
+    std::cin.ignore();
+    std::cin.get();
     return 0;
 }
