@@ -5,7 +5,7 @@
 .vscode/
 
 # Ignore output/build directories
-output/
+#output/
 
 # Ignore system files
 .DS_Store
